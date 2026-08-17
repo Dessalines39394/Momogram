@@ -193,4 +193,4 @@ apt install -y yasm
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dic1911/Momogram&type=Date)](https://star-history.com/#dic1911/Momogram&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=dic1911/Momogram&type=Date)](https://star-history.dera.page/#dic1911/Momogram&Date)
